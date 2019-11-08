@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/login.php" description="$fullName = $_POST['full_name'] ?? '';" line="14" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="442c9075-a718-4999-9513-07f1261dfcee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/2114_pixie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_html_template/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_html_template/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_html_template/formpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_html_template/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_html_template/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_html_template/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_html_template/single-product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/flex-slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/fontawesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/owl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/tooplate-main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/flexslider-icon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/flexslider-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/flexslider-icon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/flexslider-icon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/about-us.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/banner-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/big-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/big-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/big-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/big-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/header-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/item-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/item-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/item-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/item-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/item-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/item-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/product-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/thumb-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/thumb-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/thumb-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/thumb-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/flex-slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/isotope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/owl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/const.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helpers/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/messages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-item.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/newEmptyPHP.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/FormGuide/PHPFormValidator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/FormGuide/PHPFormValidator/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/FormGuide/PHPFormValidator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/FormGuide/PHPFormValidator/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/FormGuide/PHPFormValidator/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/FormGuide/PHPFormValidator/src/FieldValidator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/FormGuide/PHPFormValidator/src/FieldValidatorCollection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/FormGuide/PHPFormValidator/src/FormValidator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/FormGuide/PHPFormValidator/src/ValidatorMap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/FormGuide/PHPFormValidator/src/Validators.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/FormGuide/PHPFormValidator/src/ValidatorsList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/CaptchaBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/CaptchaBuilderInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/Font/captcha0.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/Font/captcha1.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/Font/captcha2.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/Font/captcha3.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/Font/captcha4.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/Font/captcha5.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/ImageFileHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/PhraseBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/PhraseBuilderInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/demo/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/demo/fingerprint.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/demo/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/demo/ocr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/gregwar/captcha/demo/output.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/PHPMailerAutoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.phpmaileroauthgoogle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.pop3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/class.smtp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/EasyPeasyICS.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/htmlfilter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/extras/ntlm_sasl_client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpmailer/phpmailer/get_oauth_token.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/Controllers/BaseController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/Controllers/BaseController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/Controllers/CheckoutController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/Controllers/CheckoutController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/Controllers/ContactController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/Controllers/ContactController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/Controllers/DefaultController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/Controllers/DefaultController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/Controllers/PageController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/Controllers/PageController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/Core/Application.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/Core/Application.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/Core/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/Core/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/Core/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/Core/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/Models/Contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/Models/Contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/Models/Db/Contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/Models/Db/Contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/Models/Db/Menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/Models/Db/Menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/Models/Menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/Models/Menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/Models/MenuItem.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/Models/MenuItem.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/View/default/blush.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/View/default/blush.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/View/default/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/View/default/cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/View/default/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/View/default/contact-us.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/View/default/eyeliner.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/View/default/eyeliner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/View/default/eyeshadow.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/View/default/eyeshadow.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/View/default/faceproducts.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/View/default/faceproducts.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/View/default/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/View/default/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/View/default/lipstick.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/View/default/lipstick.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/View/default/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/View/default/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/View/default/one-item.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/View/default/one-item.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/assets/css/bootstrap.min3.css" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/assets/css/bootstrap.min3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/assets/css/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/assets/css/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/assets/css/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/assets/css/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/assets/js/SmoothScroll.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/assets/js/SmoothScroll.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/assets/js/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/assets/js/jquery.magnific-popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/assets/js/js/jquery-1.11.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/assets/js/js/jquery-1.11.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/assets/js/js/simpleCart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/assets/js/js/simpleCart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/assets/js/simpleCart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/assets/js/simpleCart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/config/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/theme/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/theme/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/theme/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/theme/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/theme/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/theme/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/theme/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/theme/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/theme/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/theme/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../makeuprevolution/vendor/jquery/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../makeuprevolution/vendor/jquery/jquery-ui.min.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>b</find>
+      <find>website</find>
+      <find>form</find>
+      <find>errors</find>
+      <find>password</find>
+      <find>link</find>
+      <find>mysqli</find>
+      <find>full_name</find>
+      <find>make-up</find>
+      <find>bootstrap</find>
+      <find>sidebar</find>
+      <find>url(../images/104058.jpg) no-repeat center</find>
+      <find>main-banner-w3ls</find>
+      <find>.main-banner-w3ls</find>
+      <find>main-banner-w3l-2</find>
+      <find>.row</find>
+      <find>assets/js/SmoothScroll.min.js</find>
+      <find>SmoothScroll.min.js</find>
+      <find>Zip</find>
+      <find>messageSent</find>
+      <find>/page/contact</find>
+      <find>label</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\wamp64\www\makeuprevolution</dir>
+      <dir>C:\wamp64\www\makeuprevolution\theme</dir>
+      <dir>C:\wamp64\www\makeuprevolution\assets</dir>
+      <dir>C:\wamp64\www\mthree.local</dir>
+      <dir>C:\wamp64\www\makeuprevolution\assets\css</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../makeuprevolution" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/welcome.php" />
+        <option value="$PROJECT_DIR$/session.php" />
+        <option value="$PROJECT_DIR$/signup.php" />
+        <option value="$PROJECT_DIR$/loginsystem/index.php" />
+        <option value="$PROJECT_DIR$/loginsystem/includes/dbh.inc.php" />
+        <option value="$PROJECT_DIR$/loginsystem/signup.php" />
+        <option value="$PROJECT_DIR$/loginsystem/includes/signup.inc.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/contact-process.php" />
+        <option value="$PROJECT_DIR$/formpage.html" />
+        <option value="$PROJECT_DIR$/handler.php" />
+        <option value="$PROJECT_DIR$/assets/css/contact.css" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/config/const.php" />
+        <option value="$PROJECT_DIR$/config/db.php" />
+        <option value="$PROJECT_DIR$/templates/menu.php" />
+        <option value="$PROJECT_DIR$/helpers/functions.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/index.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/.htaccess" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/Models/Db/Menu.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/theme/menu.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/theme/main.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/theme/sidebar.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/theme/header.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/theme/footer.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/View/default/index.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/View/default/one-item.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/View/default/cart.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/Models/Contact.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/Controllers/DefaultController.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/Controllers/BaseController.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/Controllers/PageController.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/assets/css/bootstrap.min2.css" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/assets/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/../mthree.local/Controllers/PageController.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/Models/Db/Contact.php" />
+        <option value="$PROJECT_DIR$/../mthree.local/Views/page/contact.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/Core/Router.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/assets/css/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/assets/css/css/login.css" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/assets/css/bootstrap.min3.css" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/View/default/login.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/Core/Controller.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/View/default/contact-us.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/config/routes.php" />
+        <option value="$PROJECT_DIR$/../makeuprevolution/Controllers/ContactController.php" />
+        <option value="$PROJECT_DIR$/project.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="33" />
+    <option name="y" value="-30" />
+    <option name="width" value="1286" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mthree" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mthree" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="mthree.local" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mthree" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="mthree.local" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mthree" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="mthree.local" type="462c0819:PsiDirectoryNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="makeuprevolution" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="makeuprevolution" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="makeuprevolution" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="makeuprevolution" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="makeuprevolution" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="makeuprevolution" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="makeuprevolution" type="462c0819:PsiDirectoryNode" />
+              <item name="Core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="makeuprevolution" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="makeuprevolution" type="462c0819:PsiDirectoryNode" />
+              <item name="Models" type="462c0819:PsiDirectoryNode" />
+              <item name="Db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="makeuprevolution" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pixie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="makeuprevolution" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+              <item name="default" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proiectele mele/portfolio.local" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\proiectPHP.local\vendor\jquery" />
+      <recent name="C:\wamp64\www\proiectPHP.local\loginsystem" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="442c9075-a718-4999-9513-07f1261dfcee" name="Default Changelist" comment="" />
+      <created>1555852515106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555852515106</updated>
+      <workItem from="1555852516715" duration="792000" />
+      <workItem from="1555853491775" duration="2600000" />
+      <workItem from="1556045174012" duration="537000" />
+      <workItem from="1556121113621" duration="2085000" />
+      <workItem from="1556208610852" duration="1173000" />
+      <workItem from="1556641155512" duration="274000" />
+      <workItem from="1556963280845" duration="3387000" />
+      <workItem from="1556967272803" duration="759000" />
+      <workItem from="1556977779483" duration="4565000" />
+      <workItem from="1557050115138" duration="2260000" />
+      <workItem from="1557057837279" duration="641000" />
+      <workItem from="1557334978876" duration="4770000" />
+      <workItem from="1557510495746" duration="1323000" />
+      <workItem from="1557516816861" duration="376000" />
+      <workItem from="1557670141907" duration="2566000" />
+      <workItem from="1557812420497" duration="7602000" />
+      <workItem from="1557827326037" duration="393000" />
+      <workItem from="1557832884137" duration="2033000" />
+      <workItem from="1557839213884" duration="3248000" />
+      <workItem from="1557989925077" duration="413000" />
+      <workItem from="1558013153814" duration="2594000" />
+      <workItem from="1558024056580" duration="5542000" />
+      <workItem from="1558072779553" duration="873000" />
+      <workItem from="1558080791732" duration="718000" />
+      <workItem from="1558090562168" duration="7531000" />
+      <workItem from="1558100899061" duration="1049000" />
+      <workItem from="1558108699629" duration="3749000" />
+      <workItem from="1558283221472" duration="1511000" />
+      <workItem from="1558454782613" duration="9827000" />
+      <workItem from="1558468881307" duration="750000" />
+      <workItem from="1558508335563" duration="10196000" />
+      <workItem from="1558521386228" duration="804000" />
+      <workItem from="1564852476533" duration="233000" />
+      <workItem from="1565112876139" duration="6747000" />
+      <workItem from="1565160118337" duration="6916000" />
+      <workItem from="1565182737350" duration="2346000" />
+      <workItem from="1565186964337" duration="450000" />
+      <workItem from="1566403314387" duration="11243000" />
+      <workItem from="1566736256968" duration="2015000" />
+      <workItem from="1567264630407" duration="3337000" />
+      <workItem from="1567268699500" duration="308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="120536000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18229954" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2579425" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/helpers/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homepage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="90" column="43" selection-start-line="90" selection-start-column="43" selection-end-line="90" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/Core/Application.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/Models/Db/Menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/Models/Menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/theme/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="91" selection-start-line="10" selection-start-column="91" selection-end-line="10" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/theme/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="40" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/theme/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/assets/css/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2718" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/View/default/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/assets/js/SmoothScroll.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1989">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/theme/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/theme/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="72" column="59" selection-start-line="72" selection-start-column="40" selection-end-line="72" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/View/default/lipstick.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/View/default/one-item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="123" column="51" selection-start-line="123" selection-start-column="51" selection-end-line="123" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/View/default/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="140" column="37" selection-start-line="140" selection-start-column="37" selection-end-line="140" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/Controllers/CheckoutController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/Controllers/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/Controllers/BaseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mthree.local/theme/top-menu.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mthree.local/Views/page/view.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/Controllers/PageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mthree.local/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mthree.local/Models/Db/Contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mthree.local/Models/Contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/Models/Contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mthree.local/Models/Db/Page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="53" lean-forward="true" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
+          <folding>
+            <element signature="e#29#59#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/Models/Db/Contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="e#29#59#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mthree.local/config/const.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/Core/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/assets/css/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="589" lean-forward="true" selection-start-line="589" selection-end-line="589" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/assets/css/bootstrap.min3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="15" column="2015" lean-forward="true" selection-start-line="15" selection-start-column="2015" selection-end-line="15" selection-end-column="2015" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="1332" selection-start-line="1332" selection-end-line="1332" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mthree.local/Views/page/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="13" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/session/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="201" column="13" lean-forward="true" selection-start-line="201" selection-start-column="13" selection-end-line="201" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mthree.local/Core/Router.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/View/default/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="73" column="71" lean-forward="true" selection-start-line="73" selection-start-column="71" selection-end-line="73" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mthree.local/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mthree.local/Controllers/PageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="41" lean-forward="true" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
+          <folding>
+            <element signature="e#31#69#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mthree.local/Core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/View/default/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="59" selection-start-line="39" selection-start-column="59" selection-end-line="39" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="53" column="2" lean-forward="true" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/Core/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/Controllers/ContactController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+          <folding>
+            <element signature="e#30#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../makeuprevolution/View/default/contact-us.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

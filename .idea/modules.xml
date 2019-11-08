@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2114_pixie.iml" filepath="$PROJECT_DIR$/.idea/2114_pixie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../makeuprevolution/.idea/makeuprevolution.iml" filepath="$PROJECT_DIR$/../makeuprevolution/.idea/makeuprevolution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mthree.local/.idea/mthree.local.iml" filepath="$PROJECT_DIR$/../mthree.local/.idea/mthree.local.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../proiectele mele/portfolio.local/.idea/portfolio.local.iml" filepath="$PROJECT_DIR$/../proiectele mele/portfolio.local/.idea/portfolio.local.iml" />
+    </modules>
+  </component>
+</project>
